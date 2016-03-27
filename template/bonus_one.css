@@ -96,3 +96,15 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+#suggestions{
+  text-align: center;
+  width: 40%;
+  border: 1px;
+  border-color: #333;
+}
+
+p{
+  border: 1px solid grey;
+  height: 20px;
+}
